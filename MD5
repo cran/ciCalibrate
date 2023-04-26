@@ -1,0 +1,11 @@
+eb3526724bb2a9f28657d07e218e403a *DESCRIPTION
+d53d1caef28da8b13fcd81c8debcf100 *NAMESPACE
+4a5b422e013dbde14d9c6e6d86e78d83 *NEWS.md
+486321b2178ef7a2f1a145d583bd46e3 *R/ciCalibrate.R
+7f2094c7b4d5faa522b624cffc621f8b *build/partial.rdb
+9ce13e029effa48642eeb02328765cf4 *inst/CITATION
+69c6ee4d3ed90d4412f7d314b6980a87 *man/ciCalibrate.Rd
+bf9f036b9b210446fe3dc359c581f77b *man/plot.supInt.Rd
+2cbc42788b265a6069f8f723bcedf6b5 *man/print.supInt.Rd
+52b33b020bd2251f19fcd1a71f4f0daa *tests/run-all.R
+5f56e018bf64f1ea7ff9d95a0a46ce63 *tests/testthat/test-ciCalibrate.R
